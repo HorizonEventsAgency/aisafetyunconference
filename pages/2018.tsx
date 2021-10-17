@@ -50,13 +50,13 @@ export default function Home2018() {
 
             <Section title="Background readings">
                 <p>
-                    See Victoria Krakovna's up-to-date <a href="https://vkrakovna.wordpress.com/ai-safety-resources/">resource list on AI safety</a>.
+                    See Victoria Krakovna&apos;s up-to-date <a href="https://vkrakovna.wordpress.com/ai-safety-resources/">resource list on AI safety</a>.
                     Also, see the <Link href="/2018_papers"><a>the list of AI-safety related papers that were accepted to NeurIPS 2018</a></Link>.
                 </p>
             </Section>
 
             <Section title="Attendees">
-                <p>Based on early signups, here's a sample of the people you'll get to meet:</p>
+                <p>Based on early signups, here&apos;s a sample of the people you&apos;ll get to meet:</p>
                 <ul>
                     <li>Adam Gleave	(CHAI, UC Berkeley)</li>
                     <li>Alex Ray (OpenAI)</li>

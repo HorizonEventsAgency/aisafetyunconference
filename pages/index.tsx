@@ -45,7 +45,7 @@ const Home: NextPage = () => {
 
                 <p><b>Give a Lightning Talk</b>: Lightning talks (5-6 minutes in length) take place during the lunch hour.</p>
 
-                <p><b>Background readings</b>: We recommend <a href="https://vkrakovna.wordpress.com/ai-safety-resources/">Victoria Krakovna's AI safety resources</a> and the <a href="https://rohinshah.com/alignment-newsletter/">Alignment newsletter</a> as outlooks of the field.</p>
+                <p><b>Background readings</b>: We recommend <a href="https://vkrakovna.wordpress.com/ai-safety-resources/">Victoria Krakovna&apos;s AI safety resources</a> and the <a href="https://rohinshah.com/alignment-newsletter/">Alignment newsletter</a> as outlooks of the field.</p>
             </Section>
 
             <Section title="Testimonials">
@@ -61,7 +61,7 @@ const Home: NextPage = () => {
                     <li>Orpheus Lummis</li>
                     <li>Joe Collman</li>
                 </ul>
-                <p>If you have any questions or thoughts, reach out to <a href="mailto:contact@aisafetyunconference.info">contact@aisafetyunconference.info</a>. If you're interested in organising the unconference, let's chat! You can send us <a href="https://docs.google.com/forms/d/e/1FAIpQLSe8XxXu1ma6ytGTAHAOglofr92Qq_YSttanBLJqqZ-jkcMfSw/viewform">anonymous feedback</a>.</p>
+                <p>If you have any questions or thoughts, reach out to <a href="mailto:contact@aisafetyunconference.info">contact@aisafetyunconference.info</a>. If you&apos;re interested in organising the unconference, let&apos;s chat! You can send us <a href="https://docs.google.com/forms/d/e/1FAIpQLSe8XxXu1ma6ytGTAHAOglofr92Qq_YSttanBLJqqZ-jkcMfSw/viewform">anonymous feedback</a>.</p>
             </Section>
 
             <Section title="Previous years">

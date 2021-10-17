@@ -17,8 +17,8 @@ export default function Papers2018() {
 
             <Section title="AI safety papers accepted at NeurIPS 2018">
                 <ul>
-                    <li>Occam's razor is insufficient to infer the preferences of irrational agents (Armstrong & Mindermann) [<a href="https://arxiv.org/abs/1712.05812">arxiv</a>]</li>
-                    <li>Where Do You Think You're Going?: Inferring Beliefs about Dynamics from Behavior (Reddy, Dragan & Levine) [<a href="https://arxiv.org/abs/1805.08010">arxiv</a>]</li>
+                    <li>Occam&apos;s razor is insufficient to infer the preferences of irrational agents (Armstrong & Mindermann) [<a href="https://arxiv.org/abs/1712.05812">arxiv</a>]</li>
+                    <li>Where Do You Think You&apos;re Going?: Inferring Beliefs about Dynamics from Behavior (Reddy, Dragan & Levine) [<a href="https://arxiv.org/abs/1805.08010">arxiv</a>]</li>
                     <li>Learning Safe Policies with Expert Guidance (Huang, Wu, Precup & Cai) [<a href="https://arxiv.org/abs/1805.08313">arxiv</a>]</li>
                     <li>On Learning Intrinsic Rewards for Policy Gradient Methods (Zheng, Oh & Singh) [<a href="https://arxiv.org/abs/1804.06459">arxiv</a>]</li>
                     <li>Learning Task Specifications from Demonstrations (Vazquez-Chanlatte et al) [<a href="https://arxiv.org/abs/1710.03875">arxiv</a>]</li>
