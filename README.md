@@ -1,3 +1,3 @@
 # AISAU - AI Safety and Alignment Unconference
 
-https://aisafetyunconference.info/
+https://aisafetyunconf.horizonevents.info
